@@ -11,3 +11,18 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Check Symbols
+- ∨ Logical Or
+- √ Square Root
+- ✓ Check Mark
+- ✔ Heavy Check Mark
+- ✅ Check Mark Button
+- ☓ Saltire
+- 〤 Hangzhou Numeral Four
+- ✗ Ballot X
+- ✘ Heavy Ballot X
+- ❌ Cross Mark
+- ❎ Cross Mark Button
+- ☑ Ballot Box with Check
+- ☒ Ballot Box with X
+- ☐ Ballot Box
+- 〥 Hangzhou Numeral Five
